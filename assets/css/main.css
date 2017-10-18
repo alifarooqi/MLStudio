@@ -1,11 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
-/*
-	Dimension by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 /* Reset */
 
@@ -1591,4 +1586,10 @@
 
 		body.is-loading #footer {
 			opacity: 0;
+		}
+
+		.logo {
+			width: 50px;
+			height: 50px;
+			border-radius: 50%;
 		}
